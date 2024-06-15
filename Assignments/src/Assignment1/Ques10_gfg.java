@@ -17,7 +17,7 @@ public class Ques10_gfg {
         return a;
     }
 
-    public static void main(String[] args) {
-        System.out.println(getRounding(30,3));
-    }
+//    public static void main(String[] args) {
+//        System.out.println(getRounding(30,3));
+//    }
 }
